@@ -19,6 +19,9 @@ public class User {
 		this.lastname = lastname;
 	}
 
+
+
+
 	public String getUsername() {
 		return username;
 	}
